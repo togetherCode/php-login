@@ -1,5 +1,5 @@
 # A simple PHP & MySQL Login Script #
-
+this is added by huyangzhao
 Have a look on the official project website (but you'll always find the most current informations here on github):
 http://www.php-login.net or follow via [Twitter](https://twitter.com/simplephplogin), [Facebook](https://www.facebook.com/pages/PHP-Login-Script/461306677235868)
 or [Google+](https://plus.google.com/104110071861201951660).
